@@ -1,5 +1,82 @@
 {
-  "global": {},
+  "global": {
+    "color": {
+      "red": {
+        "100": {
+          "value": "#FBE8EF",
+          "type": "color",
+          "description": "color.red.100"
+        },
+        "200": {
+          "value": "#F7C8D8",
+          "type": "color",
+          "description": "color.red.200"
+        },
+        "300": {
+          "value": "#EA97A5",
+          "type": "color",
+          "description": "color.red.300"
+        },
+        "400": {
+          "value": "#E45B8E",
+          "type": "color",
+          "description": "color.red.400"
+        },
+        "500": {
+          "value": "#DD2469",
+          "type": "color",
+          "description": "color.red.500"
+        },
+        "600": {
+          "value": "#AD114A",
+          "type": "color",
+          "description": "color.red.600"
+        },
+        "700": {
+          "value": "#8A0E3C",
+          "type": "color",
+          "description": "color.red.700"
+        },
+        "800": {
+          "value": "#630A2B",
+          "type": "color",
+          "description": "color.red.800"
+        },
+        "900": {
+          "value": "#3D0619",
+          "type": "color",
+          "description": "color.red.900"
+        },
+        "1000": {
+          "value": "#20020D",
+          "type": "color",
+          "description": "color.red.1000"
+        }
+      },
+      "persimmon": {
+        "100": {
+          "value": "#FFEFEC",
+          "type": "color",
+          "description": "color.persimmon.100"
+        },
+        "200": {
+          "value": "#FDD8D1",
+          "type": "color",
+          "description": "color.persimmon.200"
+        },
+        "300": {
+          "value": "#FDB1A5",
+          "type": "color",
+          "description": "color.persimmon.300"
+        },
+        "400": {
+          "value": "#FC8B79",
+          "type": "color",
+          "description": "color.persimmon.400"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
