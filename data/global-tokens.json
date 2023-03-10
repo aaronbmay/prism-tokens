@@ -73,6 +73,88 @@
           "value": "#FC8B79",
           "type": "color",
           "description": "color.persimmon.400"
+        },
+        "500": {
+          "value": "#FB664D",
+          "type": "color",
+          "description": "color.persimmon.500"
+        },
+        "600": {
+          "value": "#CF4129",
+          "type": "color",
+          "description": "color.persimmon.600"
+        },
+        "700": {
+          "value": "#A63521",
+          "type": "color",
+          "description": "color.persimmon.700"
+        },
+        "800": {
+          "value": "#7D2719",
+          "type": "color",
+          "description": "color.persimmon.800"
+        },
+        "900": {
+          "value": "#591B12",
+          "type": "color",
+          "description": "color.persimmon.900"
+        },
+        "1000": {
+          "value": "#45140D",
+          "type": "color",
+          "description": "color.persimmon.1000"
+        }
+      },
+      "blue": {
+        "100": {
+          "value": "#E5EEFF",
+          "type": "color",
+          "description": "color.blue.100"
+        },
+        "200": {
+          "value": "#C0D6FF",
+          "type": "color",
+          "description": "color.blue.200"
+        },
+        "300": {
+          "value": "#82AEFF",
+          "type": "color",
+          "description": "color.blue.300"
+        },
+        "400": {
+          "value": "#4685FF",
+          "type": "color",
+          "description": "color.blue.400"
+        },
+        "500": {
+          "value": "#085EFF",
+          "type": "color",
+          "description": "color.blue.500"
+        },
+        "600": {
+          "value": "#0647C2",
+          "type": "color",
+          "description": "color.blue.600"
+        },
+        "700": {
+          "value": "#05348F",
+          "type": "color",
+          "description": "color.blue.700"
+        },
+        "800": {
+          "value": "#00205E",
+          "type": "color",
+          "description": "color.blue.800"
+        },
+        "900": {
+          "value": "#04102B",
+          "type": "color",
+          "description": "color.blue.900"
+        },
+        "1000": {
+          "value": "#020B1E",
+          "type": "color",
+          "description": "color.blue.1000"
         }
       }
     }
