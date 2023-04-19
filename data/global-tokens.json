@@ -681,6 +681,13 @@
           "type": "color",
           "description": "color.transparent.1000"
         }
+      },
+      "Copper Rose": {
+        "100": {
+          "value": "#EBDFE1",
+          "type": "color",
+          "description": "color.Copper Rose.100"
+        }
       }
     }
   },
