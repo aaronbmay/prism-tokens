@@ -365,6 +365,370 @@
           "description": "color.purple.1000"
         }
       },
+      "copper-rose": {
+        "100": {
+          "value": "#EBDFE1",
+          "type": "color",
+          "description": "color.copper-rose.100"
+        },
+        "200": {
+          "value": "#DECACD",
+          "type": "color",
+          "description": "color.copper-rose.200"
+        },
+        "300": {
+          "value": "#BC969B",
+          "type": "color",
+          "description": "color.copper-rose.300"
+        },
+        "400": {
+          "value": "#AC7B82",
+          "type": "color",
+          "description": "color.copper-rose.400"
+        },
+        "500": {
+          "value": "#9B6169",
+          "type": "color",
+          "description": "color.copper-rose.500"
+        },
+        "600": {
+          "value": "#815157",
+          "type": "color",
+          "description": "color.copper-rose.600"
+        },
+        "700": {
+          "value": "#674146",
+          "type": "color",
+          "description": "color.copper-rose.700"
+        },
+        "800": {
+          "value": "#4E3035",
+          "type": "color",
+          "description": "color.copper-rose.800"
+        },
+        "900": {
+          "value": "#342023",
+          "type": "color",
+          "description": "color.copper-rose.900"
+        },
+        "1000": {
+          "value": "#1F1315",
+          "type": "color",
+          "description": "color.copper-rose.1000"
+        }
+      },
+      "rose-gold": {
+        "100": {
+          "value": "#E6CDC6",
+          "type": "color",
+          "description": "color.rose-gold.100"
+        },
+        "200": {
+          "value": "#D9B5AA",
+          "type": "color",
+          "description": "color.rose-gold.200"
+        },
+        "300": {
+          "value": "#CC9C8E",
+          "type": "color",
+          "description": "color.rose-gold.300"
+        },
+        "400": {
+          "value": "#C08371",
+          "type": "color",
+          "description": "color.rose-gold.400"
+        },
+        "500": {
+          "value": "#B36A55",
+          "type": "color",
+          "description": "color.rose-gold.500"
+        },
+        "600": {
+          "value": "#955847",
+          "type": "color",
+          "description": "color.rose-gold.600"
+        },
+        "700": {
+          "value": "#774739",
+          "type": "color",
+          "description": "color.rose-gold.700"
+        },
+        "800": {
+          "value": "#5A352A",
+          "type": "color",
+          "description": "color.rose-gold.800"
+        },
+        "900": {
+          "value": "#3C231C",
+          "type": "color",
+          "description": "color.rose-gold.900"
+        },
+        "1000": {
+          "value": "#241511",
+          "type": "color",
+          "description": "color.rose-gold.1000"
+        }
+      },
+      "gold": {
+        "100": {
+          "value": "#E7D8B5",
+          "type": "color",
+          "description": "color.gold.100"
+        },
+        "200": {
+          "value": "#DBC490",
+          "type": "color",
+          "description": "color.gold.200"
+        },
+        "300": {
+          "value": "#CEB16A",
+          "type": "color",
+          "description": "color.gold.300"
+        },
+        "400": {
+          "value": "#C29E45",
+          "type": "color",
+          "description": "color.gold.400"
+        },
+        "500": {
+          "value": "#B68A20",
+          "type": "color",
+          "description": "color.gold.500"
+        },
+        "600": {
+          "value": "#98731B",
+          "type": "color",
+          "description": "color.gold.600"
+        },
+        "700": {
+          "value": "#795C15",
+          "type": "color",
+          "description": "color.gold.700"
+        },
+        "800": {
+          "value": "#5B4510",
+          "type": "color",
+          "description": "color.gold.800"
+        },
+        "900": {
+          "value": "#3D2E0B",
+          "type": "color",
+          "description": "color.gold.900"
+        },
+        "1000": {
+          "value": "#241C06",
+          "type": "color",
+          "description": "color.gold.1000"
+        }
+      },
+      "sage": {
+        "100": {
+          "value": "#CFD6D0",
+          "type": "color",
+          "description": "color.sage.100"
+        },
+        "200": {
+          "value": "#B8C1B9",
+          "type": "color",
+          "description": "color.sage.200"
+        },
+        "300": {
+          "value": "#A0ADA2",
+          "type": "color",
+          "description": "color.sage.300"
+        },
+        "400": {
+          "value": "#88998A",
+          "type": "color",
+          "description": "color.sage.400"
+        },
+        "500": {
+          "value": "#708473",
+          "type": "color",
+          "description": "color.sage.500"
+        },
+        "600": {
+          "value": "#5D6E60",
+          "type": "color",
+          "description": "color.sage.600"
+        },
+        "700": {
+          "value": "#4B584D",
+          "type": "color",
+          "description": "color.sage.700"
+        },
+        "800": {
+          "value": "#384239",
+          "type": "color",
+          "description": "color.sage.800"
+        },
+        "900": {
+          "value": "#252C26",
+          "type": "color",
+          "description": "color.sage.900"
+        },
+        "1000": {
+          "value": "#161A17",
+          "type": "color",
+          "description": "color.sage.1000"
+        }
+      },
+      "dusty-blue": {
+        "100": {
+          "value": "#C5D3D8",
+          "type": "color",
+          "description": "color.dusty-blue.100"
+        },
+        "200": {
+          "value": "#A8BDC4",
+          "type": "color",
+          "description": "color.dusty-blue.200"
+        },
+        "300": {
+          "value": "#8CA6B0",
+          "type": "color",
+          "description": "color.dusty-blue.300"
+        },
+        "400": {
+          "value": "#6F909D",
+          "type": "color",
+          "description": "color.dusty-blue.400"
+        },
+        "500": {
+          "value": "#527A89",
+          "type": "color",
+          "description": "color.dusty-blue.500"
+        },
+        "600": {
+          "value": "#446672",
+          "type": "color",
+          "description": "color.dusty-blue.600"
+        },
+        "700": {
+          "value": "#37515B",
+          "type": "color",
+          "description": "color.dusty-blue.700"
+        },
+        "800": {
+          "value": "#293D44",
+          "type": "color",
+          "description": "color.dusty-blue.800"
+        },
+        "900": {
+          "value": "#1B292E",
+          "type": "color",
+          "description": "color.dusty-blue.900"
+        },
+        "1000": {
+          "value": "#10181B",
+          "type": "color",
+          "description": "color.dusty-blue.1000"
+        }
+      },
+      "slate-gray": {
+        "100": {
+          "value": "#CBD1DA",
+          "type": "color",
+          "description": "color.slate-gray.100"
+        },
+        "200": {
+          "value": "#B2BBC8",
+          "type": "color",
+          "description": "color.slate-gray.200"
+        },
+        "300": {
+          "value": "#98A4B6",
+          "type": "color",
+          "description": "color.slate-gray.300"
+        },
+        "400": {
+          "value": "#7E8DA3",
+          "type": "color",
+          "description": "color.slate-gray.400"
+        },
+        "500": {
+          "value": "#647691",
+          "type": "color",
+          "description": "color.slate-gray.500"
+        },
+        "600": {
+          "value": "#536279",
+          "type": "color",
+          "description": "color.slate-gray.600"
+        },
+        "700": {
+          "value": "#434F61",
+          "type": "color",
+          "description": "color.slate-gray.700"
+        },
+        "800": {
+          "value": "#323B49",
+          "type": "color",
+          "description": "color.slate-gray.800"
+        },
+        "900": {
+          "value": "#212730",
+          "type": "color",
+          "description": "color.slate-gray.900"
+        },
+        "1000": {
+          "value": "#14181D",
+          "type": "color",
+          "description": "color.slate-gray.1000"
+        }
+      },
+      "lavender": {
+        "100": {
+          "value": "#D6CBD3",
+          "type": "color",
+          "description": "color.lavender.100"
+        },
+        "200": {
+          "value": "#C2B2BD",
+          "type": "color",
+          "description": "color.lavender.200"
+        },
+        "300": {
+          "value": "#AE98A6",
+          "type": "color",
+          "description": "color.lavender.300"
+        },
+        "400": {
+          "value": "#997E90",
+          "type": "color",
+          "description": "color.lavender.400"
+        },
+        "500": {
+          "value": "#85647A",
+          "type": "color",
+          "description": "color.lavender.500"
+        },
+        "600": {
+          "value": "#6F5366",
+          "type": "color",
+          "description": "color.lavender.600"
+        },
+        "700": {
+          "value": "#594351",
+          "type": "color",
+          "description": "color.lavender.700"
+        },
+        "800": {
+          "value": "#42323D",
+          "type": "color",
+          "description": "color.lavender.800"
+        },
+        "900": {
+          "value": "#2C2129",
+          "type": "color",
+          "description": "color.lavender.900"
+        },
+        "1000": {
+          "value": "#1B1418",
+          "type": "color",
+          "description": "color.lavender.1000"
+        }
+      },
       "positive": {
         "100": {
           "value": "#ECF8E9",
@@ -680,110 +1044,6 @@
           "value": "#000000",
           "type": "color",
           "description": "color.transparent.1000"
-        }
-      },
-      "copper-rose": {
-        "100": {
-          "value": "#EBDFE1",
-          "type": "color",
-          "description": "color.copper-rose.100"
-        },
-        "200": {
-          "value": "#DECACD",
-          "type": "color",
-          "description": "color.copper-rose.200"
-        },
-        "300": {
-          "value": "#BC969B",
-          "type": "color",
-          "description": "color.copper-rose.300"
-        },
-        "400": {
-          "value": "#AC7B82",
-          "type": "color",
-          "description": "color.copper-rose.400"
-        },
-        "500": {
-          "value": "#9B6169",
-          "type": "color",
-          "description": "color.copper-rose.500"
-        },
-        "600": {
-          "value": "#815157",
-          "type": "color",
-          "description": "color.copper-rose.600"
-        },
-        "700": {
-          "value": "#674146",
-          "type": "color",
-          "description": "color.copper-rose.700"
-        },
-        "800": {
-          "value": "#4E3035",
-          "type": "color",
-          "description": "color.copper-rose.800"
-        },
-        "900": {
-          "value": "#342023",
-          "type": "color",
-          "description": "color.copper-rose.900"
-        },
-        "1000": {
-          "value": "#1F1315",
-          "type": "color",
-          "description": "color.copper-rose.1000"
-        }
-      },
-      "rose-gold": {
-        "100": {
-          "value": "#E6CDC6",
-          "type": "color",
-          "description": "color.rose-gold.100"
-        },
-        "200": {
-          "value": "#D9B5AA",
-          "type": "color",
-          "description": "color.rose-gold.200"
-        },
-        "300": {
-          "value": "#CC9C8E",
-          "type": "color",
-          "description": "color.rose-gold.300"
-        },
-        "400": {
-          "value": "#C08371",
-          "type": "color",
-          "description": "color.rose-gold.400"
-        },
-        "500": {
-          "value": "#B36A55",
-          "type": "color",
-          "description": "color.rose-gold.500"
-        },
-        "600": {
-          "value": "#955847",
-          "type": "color",
-          "description": "color.rose-gold.600"
-        },
-        "700": {
-          "value": "#774739",
-          "type": "color",
-          "description": "color.rose-gold.700"
-        },
-        "800": {
-          "value": "#5A352A",
-          "type": "color",
-          "description": "color.rose-gold.800"
-        },
-        "900": {
-          "value": "#3C231C",
-          "type": "color",
-          "description": "color.rose-gold.900"
-        },
-        "1000": {
-          "value": "#241511",
-          "type": "color",
-          "description": "color.rose-gold.1000"
         }
       }
     }
