@@ -1800,6 +1800,68 @@
           "description": "color.text.information.onDark"
         }
       }
+    },
+    "shadow": {
+      "xSmall": {
+        "onLight": {
+          "value": "{shadow.100}",
+          "type": "boxShadow",
+          "description": "shadow.xSmall.onLight"
+        },
+        "onDark": {
+          "value": "{shadow.600}",
+          "type": "boxShadow",
+          "description": "shadow.xSmall.onDark"
+        }
+      },
+      "small": {
+        "onLight": {
+          "value": "{shadow.200}",
+          "type": "boxShadow",
+          "description": "shadow.small.onLight"
+        },
+        "onDark": {
+          "value": "{shadow.700}",
+          "type": "boxShadow",
+          "description": "shadow.small.onDark"
+        }
+      },
+      "medium": {
+        "onLight": {
+          "value": "{shadow.300}",
+          "type": "boxShadow",
+          "description": "shadow.medium.onLight"
+        },
+        "onDark": {
+          "value": "{shadow.800}",
+          "type": "boxShadow",
+          "description": "shadow.medium.onDark"
+        }
+      },
+      "large": {
+        "onLight": {
+          "value": "{shadow.400}",
+          "type": "boxShadow",
+          "description": "shadow.large.onLight"
+        },
+        "onDark": {
+          "value": "{shadow.900}",
+          "type": "boxShadow",
+          "description": "shadow.large.onDark"
+        }
+      },
+      "xLarge": {
+        "onLight": {
+          "value": "{shadow.500}",
+          "type": "boxShadow",
+          "description": "shadow.xLarge.onLight"
+        },
+        "onDark": {
+          "value": "{shadow.1000}",
+          "type": "boxShadow",
+          "description": "shadow.xLarge.onDark"
+        }
+      }
     }
   },
   "$themes": [],
