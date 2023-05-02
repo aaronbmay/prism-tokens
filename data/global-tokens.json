@@ -1044,6 +1044,180 @@
         "type": "color",
         "description": "color.transparent.1000"
       }
+    },
+    "spacing": {
+      "4": {
+        "value": "4px",
+        "type": "spacing",
+        "description": "spacing.4"
+      },
+      "8": {
+        "value": "8px",
+        "type": "spacing",
+        "description": "spacing.8"
+      },
+      "16": {
+        "value": "16px",
+        "type": "spacing",
+        "description": "spacing.16"
+      },
+      "24": {
+        "value": "24px",
+        "type": "spacing",
+        "description": "spacing.24"
+      },
+      "32": {
+        "value": "32px",
+        "type": "spacing",
+        "description": "spacing.32"
+      },
+      "40": {
+        "value": "40px",
+        "type": "spacing",
+        "description": "spacing.40"
+      },
+      "48": {
+        "value": "48px",
+        "type": "spacing",
+        "description": "$spacing.48"
+      },
+      "56": {
+        "value": "56px",
+        "type": "spacing",
+        "description": "spacing.56"
+      },
+      "80": {
+        "value": "80px",
+        "type": "spacing",
+        "description": "spacing.80"
+      },
+      "96": {
+        "value": "96px",
+        "type": "spacing",
+        "description": "spacing.96"
+      }
+    },
+    "shadow": {
+      "100": {
+        "value": {
+          "x": "0",
+          "y": "2px",
+          "blur": "4px",
+          "spread": "0",
+          "color": "{transparent.100}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.100"
+      },
+      "200": {
+        "value": {
+          "x": "0",
+          "y": "4px",
+          "blur": "8px",
+          "spread": "0",
+          "color": "{transparent.200}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.200"
+      },
+      "300": {
+        "value": {
+          "x": "0",
+          "y": "8px",
+          "blur": "16px",
+          "spread": "0",
+          "color": "{transparent.300}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.300"
+      },
+      "400": {
+        "value": {
+          "x": "0",
+          "y": "12px",
+          "blur": "24px",
+          "spread": "0",
+          "color": "{transparent.400}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.400"
+      },
+      "500": {
+        "value": {
+          "x": "0",
+          "y": "16px",
+          "blur": "32px",
+          "spread": "0",
+          "color": "{transparent.500}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.500"
+      },
+      "600": {
+        "value": {
+          "x": "0",
+          "y": "2px",
+          "blur": "4px",
+          "spread": "0",
+          "color": "{transparent.600}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.600"
+      },
+      "700": {
+        "value": {
+          "x": "0",
+          "y": "4px",
+          "blur": "8px",
+          "spread": "0",
+          "color": "{transparent.700}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.700"
+      },
+      "800": {
+        "value": {
+          "x": "0",
+          "y": "8px",
+          "blur": "16px",
+          "spread": "0",
+          "color": "{transparent.800}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.800"
+      },
+      "900": {
+        "value": {
+          "x": "0",
+          "y": "12px",
+          "blur": "24px",
+          "spread": "0",
+          "color": "{transparent.900}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.900"
+      },
+      "1000": {
+        "value": {
+          "x": "0",
+          "y": "16px",
+          "blur": "32px",
+          "spread": "0",
+          "color": "{transparent.1000}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "shadow.1000"
+      }
     }
   },
   "prism": {
