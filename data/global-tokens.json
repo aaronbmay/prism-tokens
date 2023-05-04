@@ -1218,6 +1218,155 @@
         "type": "boxShadow",
         "description": "shadow.1000"
       }
+    },
+    "fontSize": {
+      "minorSecond": {
+        "value": "1.067",
+        "type": "fontSizes",
+        "description": "fontSize.minorSecond"
+      },
+      "majorSecond": {
+        "value": "1.125",
+        "type": "fontSizes",
+        "description": "fontSize.majorSecond"
+      },
+      "minorThird": {
+        "value": "1.2",
+        "type": "fontSizes",
+        "description": "fontSize.minorThird"
+      },
+      "majorThird": {
+        "value": "1.25",
+        "type": "fontSizes",
+        "description": "fontSize.majorThird"
+      },
+      "perfectFourth": {
+        "value": "1.333",
+        "type": "fontSizes",
+        "description": "fontSize.perfectFourth"
+      },
+      "goldenRatio": {
+        "value": "1.618",
+        "type": "fontSizes",
+        "description": "fontSize.goldenRatio"
+      },
+      "scale": {
+        "value": "{fontSize.minorThird}",
+        "type": "fontSizes",
+        "description": "fontSize.scale"
+      },
+      "base": {
+        "value": "16",
+        "type": "fontSizes",
+        "description": "fontSize.base"
+      },
+      "xxs": {
+        "value": "roundTo({fontSize.xs} / {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.xxs"
+      },
+      "xs": {
+        "value": "roundTo({fontSize.s} / {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.xs"
+      },
+      "s": {
+        "value": "roundTo({fontSize.base} / {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.s"
+      },
+      "m": {
+        "value": "roundTo({fontSize.base} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.m"
+      }
+    },
+    "fontWeights": {
+      "black": {
+        "value": "Black",
+        "type": "fontWeights",
+        "description": "fontWeights.black"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights",
+        "description": "fontWeights.bold"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights",
+        "description": "fontWeights.medium"
+      },
+      "light": {
+        "value": "Light",
+        "type": "fontWeights",
+        "description": "fontWeights.light"
+      },
+      "book": {
+        "value": "Book",
+        "type": "fontWeights",
+        "description": "fontWeights.book"
+      },
+      "blackItalic": {
+        "value": "Black Italic",
+        "type": "fontWeights",
+        "description": "fontWeights.blackItalic"
+      },
+      "boldItalic": {
+        "value": "Bold Italic",
+        "type": "fontWeights",
+        "description": "fontWeights.boldItalic"
+      },
+      "mediumItalic": {
+        "value": "Medium Italic",
+        "type": "fontWeights",
+        "description": "fontWeights.mediumItalic"
+      },
+      "lightItalic": {
+        "value": "Light Italic",
+        "type": "fontWeights",
+        "description": "fontWeights.lightItalic"
+      },
+      "italic": {
+        "value": "Italic",
+        "type": "fontWeights",
+        "description": "fontWeights.italic"
+      },
+      "inlineX1": {
+        "value": "Inline x1",
+        "type": "fontWeights",
+        "description": "fontWeights.inlineX1"
+      },
+      "inlineX2": {
+        "value": "Inline x2",
+        "type": "fontWeights",
+        "description": "fontWeights.inlineX2"
+      },
+      "heavy": {
+        "value": "Heavy",
+        "type": "fontWeights",
+        "description": "fontWeights.heavy"
+      },
+      "semibold": {
+        "value": "Semibold",
+        "type": "fontWeights",
+        "description": "fontWeights.semibold"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights",
+        "description": "fontWeights.regular"
+      },
+      "thin": {
+        "value": "Thin",
+        "type": "fontWeights",
+        "description": "fontWeights.thin"
+      },
+      "ultraLight": {
+        "value": "Ultralight",
+        "type": "fontWeights",
+        "description": "fontWeights.ultraLight"
+      }
     }
   },
   "prism": {
