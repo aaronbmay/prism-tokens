@@ -1276,9 +1276,14 @@
         "description": "fontSize.s"
       },
       "m": {
-        "value": "roundTo({fontSize.base} * {fontSize.scale}, 0)",
+        "value": "roundTo({fontSize.s} * {fontSize.scale}, 0)",
         "type": "fontSizes",
         "description": "fontSize.m"
+      },
+      "l": {
+        "value": "roundTo({fontSize.m} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.l"
       }
     },
     "fontWeights": {
