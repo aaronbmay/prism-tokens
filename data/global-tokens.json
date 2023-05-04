@@ -1266,7 +1266,7 @@
         "description": "fontSize.xxs"
       },
       "xs": {
-        "value": "roundTo({fontSize.s} / {fontSize.scale}, 0)",
+        "value": "roundTo({fontSize.base} / {fontSize.scale}, 0)",
         "type": "fontSizes",
         "description": "fontSize.xs"
       },
@@ -1276,7 +1276,7 @@
         "description": "fontSize.s"
       },
       "m": {
-        "value": "roundTo({fontSize.s} * {fontSize.scale}, 0)",
+        "value": "roundTo({fontSize.base} * {fontSize.scale}, 0)",
         "type": "fontSizes",
         "description": "fontSize.m"
       },
@@ -1284,6 +1284,46 @@
         "value": "roundTo({fontSize.m} * {fontSize.scale}, 0)",
         "type": "fontSizes",
         "description": "fontSize.l"
+      },
+      "xl": {
+        "value": "roundTo({fontSize.l} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.xl"
+      },
+      "xxl": {
+        "value": "roundTo({fontSize.xl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.xxl"
+      },
+      "3xl": {
+        "value": "roundTo({fontSize.xxl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.3xl"
+      },
+      "4xl": {
+        "value": "roundTo({fontSize.3xl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.4xl"
+      },
+      "5xl": {
+        "value": "roundTo({fontSize.4xl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.5xl"
+      },
+      "6xl": {
+        "value": "roundTo({fontSize.5xl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.6xl"
+      },
+      "7xl": {
+        "value": "roundTo({fontSize.6xl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.7xl"
+      },
+      "8xl": {
+        "value": "roundTo({fontSize.7xl} * {fontSize.scale}, 0)",
+        "type": "fontSizes",
+        "description": "fontSize.8xl"
       }
     },
     "fontWeights": {
@@ -1371,6 +1411,20 @@
         "value": "Ultralight",
         "type": "fontWeights",
         "description": "fontWeights.ultraLight"
+      }
+    },
+    "fontFamilies": {
+      "brand": {
+        "primary": {
+          "value": "Snowflake Sans",
+          "type": "fontFamilies",
+          "description": "fontFamilies.brand.primary"
+        },
+        "secondary": {
+          "value": "Snowflake Inline",
+          "type": "fontFamilies",
+          "description": "fontFamilies.brand.secondary"
+        }
       }
     }
   },
