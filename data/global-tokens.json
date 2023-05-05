@@ -1425,6 +1425,141 @@
           "type": "fontFamilies",
           "description": "fontFamilies.brand.secondary"
         }
+      },
+      "system": {
+        "web": {
+          "value": "Arial",
+          "type": "fontFamilies",
+          "description": "fontFamilies.system.web"
+        },
+        "iOS": {
+          "value": "SF Pro",
+          "type": "fontFamilies",
+          "description": "fontFamilies.system.iOS"
+        },
+        "android": {
+          "value": "Roboto",
+          "type": "fontFamilies",
+          "description": "fontFamilies.system.android"
+        }
+      }
+    },
+    "lineHeights": {
+      "20": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "24": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "32": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "36": {
+        "value": "36",
+        "type": "lineHeights"
+      },
+      "40": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "44": {
+        "value": "44",
+        "type": "lineHeights"
+      },
+      "48": {
+        "value": "48",
+        "type": "lineHeights"
+      },
+      "52": {
+        "value": "52",
+        "type": "lineHeights"
+      },
+      "56": {
+        "value": "56",
+        "type": "lineHeights"
+      },
+      "60": {
+        "value": "60",
+        "type": "lineHeights"
+      },
+      "64": {
+        "value": "64",
+        "type": "lineHeights"
+      },
+      "68": {
+        "value": "68",
+        "type": "lineHeights"
+      },
+      "72": {
+        "value": "72",
+        "type": "lineHeights"
+      },
+      "76": {
+        "value": "76",
+        "type": "lineHeights"
+      },
+      "80": {
+        "value": "80",
+        "type": "lineHeights"
+      },
+      "84": {
+        "value": "84",
+        "type": "lineHeights"
+      },
+      "88": {
+        "value": "88",
+        "type": "lineHeights"
+      },
+      "92": {
+        "value": "92",
+        "type": "lineHeights"
+      },
+      "96": {
+        "value": "96",
+        "type": "lineHeights"
+      },
+      "100": {
+        "value": "100",
+        "type": "lineHeights"
+      },
+      "16:16": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "104:104": {
+        "value": "104",
+        "type": "lineHeights"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "upperCase": {
+        "value": "uppercase",
+        "type": "textCase"
+      },
+      "titleCase": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      },
+      "lineThrough": {
+        "value": "line-through",
+        "type": "textDecoration"
       }
     }
   },
