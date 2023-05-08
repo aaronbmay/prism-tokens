@@ -1561,6 +1561,42 @@
         "value": "line-through",
         "type": "textDecoration"
       }
+    },
+    "letterSpacing": {
+      "tight": {
+        "value": "-1%",
+        "type": "letterSpacing"
+      },
+      "normal": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "small": {
+        "value": "1%",
+        "type": "letterSpacing"
+      },
+      "medium": {
+        "value": "2%",
+        "type": "letterSpacing"
+      },
+      "wide": {
+        "value": "3%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphySpacing": {
+      "default": {
+        "value": "0%",
+        "type": "paragraphSpacing"
+      },
+      "relaxed": {
+        "value": "150%",
+        "type": "paragraphSpacing"
+      },
+      "wide": {
+        "value": "200%",
+        "type": "paragraphSpacing"
+      }
     }
   },
   "prism": {
