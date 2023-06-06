@@ -1597,6 +1597,21 @@
         "value": "200%",
         "type": "paragraphSpacing"
       }
+    },
+    "megaM": {
+      "value": {
+        "fontFamily": "{fontFamilies.brand.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.52}",
+        "fontSize": "{fontSize.7xl}",
+        "letterSpacing": "{letterSpacing.normal}",
+        "paragraphSpacing": "{paragraphySpacing.default}",
+        "textDecoration": "{textDecoration.lineThrough}",
+        "paragraphIndent": "0",
+        "textCase": "{textCase.upperCase}"
+      },
+      "type": "typography",
+      "description": "typeset.megaM"
     }
   },
   "prism": {
