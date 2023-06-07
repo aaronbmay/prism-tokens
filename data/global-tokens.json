@@ -1299,40 +1299,80 @@
         }
       },
       "brand": {
-        "default": {
-          "onLight": {
-            "value": "{blue.600}",
-            "type": "color",
-            "description": "color.background.brand.default.onLight"
+        "secondary": {
+          "default": {
+            "onLight": {
+              "value": "{blue.600}",
+              "type": "color",
+              "description": "color.background.brand.secondary.default.onLight"
+            },
+            "onDark": {
+              "value": "{blue.400}",
+              "type": "color",
+              "description": "color.background.brand.secondary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.400}",
-            "type": "color",
-            "description": "color.background.brand.default.onDark"
+          "hover": {
+            "onLight": {
+              "value": "{blue.700}",
+              "type": "color",
+              "description": "color.background.brand.secondary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{blue.500}",
+              "type": "color",
+              "description": "color.background.brand.secondary.hover.onDark"
+            }
+          },
+          "active": {
+            "onLight": {
+              "value": "{blue.800}",
+              "type": "color",
+              "description": "color.background.brand.secondary.active.onLight"
+            },
+            "onDark": {
+              "value": "{blue.600}",
+              "type": "color",
+              "description": "color.background.brand.secondary.active.onDark"
+            }
           }
         },
-        "hover": {
-          "onLight": {
-            "value": "{blue.700}",
-            "type": "color",
-            "description": "color.background.brand.hover.onLight"
+        "primary": {
+          "default": {
+            "onLight": {
+              "value": "{gray.1100}",
+              "type": "color",
+              "description": "color.background.brand.primary.default.onLight"
+            },
+            "onDark": {
+              "value": "{gray.100}",
+              "type": "color",
+              "description": "color.background.brand.primary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.500}",
-            "type": "color",
-            "description": "color.background.brand.hover.onDark"
-          }
-        },
-        "active": {
-          "onLight": {
-            "value": "{blue.800}",
-            "type": "color",
-            "description": "color.background.brand.active.onLight"
+          "hover": {
+            "onLight": {
+              "value": "{gray.1000}",
+              "type": "color",
+              "description": "color.background.brand.primary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{gray.200}",
+              "type": "color",
+              "description": "color.background.brand.primary.hover.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.600}",
-            "type": "color",
-            "description": "color.background.brand.active.onDark"
+          "active": {
+            "onLight": {
+              "value": "{gray.900}",
+              "type": "color",
+              "description": "color.background.brand.primary.active.onLight"
+            },
+            "onDark": {
+              "value": "{gray.300}",
+              "type": "color",
+              "description": "color.background.brand.primary.active.onDark"
+            }
           }
         }
       },
@@ -1515,40 +1555,80 @@
         }
       },
       "brand": {
-        "default": {
-          "onLight": {
-            "value": "{blue.600}",
-            "type": "color",
-            "description": "color.border.brand.default.onLight"
+        "secondary": {
+          "default": {
+            "onLight": {
+              "value": "{blue.600}",
+              "type": "color",
+              "description": "color.border.brand.secondary.default.onLight"
+            },
+            "onDark": {
+              "value": "{blue.400}",
+              "type": "color",
+              "description": "color.border.brand.secondary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.400}",
-            "type": "color",
-            "description": "color.border.brand.default.onDark"
+          "hover": {
+            "onLight": {
+              "value": "{blue.700}",
+              "type": "color",
+              "description": "color.border.brand.secondary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{blue.500}",
+              "type": "color",
+              "description": "color.border.brand.secondary.hover.onDark"
+            }
+          },
+          "active": {
+            "onLight": {
+              "value": "{blue.800}",
+              "type": "color",
+              "description": "color.border.brand.secondary.active.onLight"
+            },
+            "onDark": {
+              "value": "{blue.600}",
+              "type": "color",
+              "description": "color.border.brand.secondary.active.onDark"
+            }
           }
         },
-        "hover": {
-          "onLight": {
-            "value": "{blue.700}",
-            "type": "color",
-            "description": "color.border.brand.hover.onLight"
+        "primary": {
+          "default": {
+            "onLight": {
+              "value": "{gray.1100}",
+              "type": "color",
+              "description": "color.border.brand.primary.default.onLight"
+            },
+            "onDark": {
+              "value": "{gray.100}",
+              "type": "color",
+              "description": "color.border.brand.primary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.500}",
-            "type": "color",
-            "description": "color.border.brand.hover.onDark"
-          }
-        },
-        "active": {
-          "onLight": {
-            "value": "{blue.800}",
-            "type": "color",
-            "description": "color.border.brand.active.onLight"
+          "hover": {
+            "onLight": {
+              "value": "{gray.1000}",
+              "type": "color",
+              "description": "color.border.brand.primary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{gray.200}",
+              "type": "color",
+              "description": "color.border.brand.primary.hover.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.600}",
-            "type": "color",
-            "description": "color.border.brand.active.onDark"
+          "active": {
+            "onLight": {
+              "value": "{gray.900}",
+              "type": "color",
+              "description": "color.border.brand.primary.active.onLight"
+            },
+            "onDark": {
+              "value": "{gray.300}",
+              "type": "color",
+              "description": "color.border.brand.primary.active.onDark"
+            }
           }
         }
       },
@@ -1655,40 +1735,80 @@
         }
       },
       "brand": {
-        "default": {
-          "onLight": {
-            "value": "{blue.600}",
-            "type": "color",
-            "description": "color.text.brand.default.onLight"
+        "secondary": {
+          "default": {
+            "onLight": {
+              "value": "{blue.600}",
+              "type": "color",
+              "description": "color.text.brand.secondary.default.onLight"
+            },
+            "onDark": {
+              "value": "{blue.400}",
+              "type": "color",
+              "description": "color.text.brand.secondary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.400}",
-            "type": "color",
-            "description": "color.text.brand.default.onDark"
+          "hover": {
+            "onLight": {
+              "value": "{blue.700}",
+              "type": "color",
+              "description": "text.brand.secondary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{blue.500}",
+              "type": "color",
+              "description": "color.text.brand.secondary.hover.onDark"
+            }
+          },
+          "active": {
+            "onLight": {
+              "value": "{blue.800}",
+              "type": "color",
+              "description": "color.text.brand.secondary.active.onLight"
+            },
+            "onDark": {
+              "value": "{blue.600}",
+              "type": "color",
+              "description": "color.text.brand.secondary.active.onDark"
+            }
           }
         },
-        "hover": {
-          "onLight": {
-            "value": "{blue.700}",
-            "type": "color",
-            "description": "text.brand.hover.onLight"
+        "primary": {
+          "default": {
+            "onLight": {
+              "value": "{gray.1100}",
+              "type": "color",
+              "description": "color.text.brand.primary.default.onLight"
+            },
+            "onDark": {
+              "value": "{gray.100}",
+              "type": "color",
+              "description": "color.text.brand.primary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.500}",
-            "type": "color",
-            "description": "color.text.brand.hover.onDark"
-          }
-        },
-        "active": {
-          "onLight": {
-            "value": "{blue.800}",
-            "type": "color",
-            "description": "color.text.brand.active.onLight"
+          "hover": {
+            "onLight": {
+              "value": "{gray.1000}",
+              "type": "color",
+              "description": "text.brand.primary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{gray.200}",
+              "type": "color",
+              "description": "color.text.brand.primary.hover.onDark"
+            }
           },
-          "onDark": {
-            "value": "{blue.600}",
-            "type": "color",
-            "description": "color.text.brand.active.onDark"
+          "active": {
+            "onLight": {
+              "value": "{gray.900}",
+              "type": "color",
+              "description": "color.text.brand.primary.active.onLight"
+            },
+            "onDark": {
+              "value": "{gray.300}",
+              "type": "color",
+              "description": "color.text.brand.primary.active.onDark"
+            }
           }
         }
       },
