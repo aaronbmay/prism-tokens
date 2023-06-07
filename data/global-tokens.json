@@ -2369,21 +2369,6 @@
     "webDesktop": {
       "mega": {
         "inline": {
-          "x1": {
-            "value": {
-              "fontFamily": "{fontFamilies.brand.secondary}",
-              "fontWeight": "{fontWeights.inlineX1}",
-              "lineHeight": "{lineHeights.100}",
-              "fontSize": "{fontSize.8xl}",
-              "letterSpacing": "{letterSpacing.normal}",
-              "paragraphSpacing": "{paragraphSpacing.default}",
-              "paragraphIndent": "0",
-              "textDecoration": "{textDecoration.none}",
-              "textCase": "{textCase.none}"
-            },
-            "type": "typography",
-            "description": "webDesktop.mega.inline.x1"
-          },
           "x2": {
             "value": {
               "fontFamily": "{fontFamilies.brand.secondary}",
@@ -2398,6 +2383,21 @@
             },
             "type": "typography",
             "description": "webDesktop.mega.inline.x2"
+          },
+          "x1": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand.secondary}",
+              "fontWeight": "{fontWeights.inlineX1}",
+              "lineHeight": "{lineHeights.100}",
+              "fontSize": "{fontSize.8xl}",
+              "letterSpacing": "{letterSpacing.normal}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "paragraphIndent": "0",
+              "textDecoration": "{textDecoration.none}",
+              "textCase": "{textCase.none}"
+            },
+            "type": "typography",
+            "description": "webDesktop.mega.inline.x1"
           }
         },
         "extraLarge": {
