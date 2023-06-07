@@ -1984,7 +1984,7 @@
       }
     }
   },
-  "Type: Globals": {
+  "type: global": {
     "fontSize": {
       "minorSecond": {
         "value": "1.067",
@@ -2365,7 +2365,7 @@
       }
     }
   },
-  "Type: Web Desktop": {
+  "type: webDesktop": {
     "webDesktop": {
       "mega": {
         "inline": {
@@ -2984,15 +2984,15 @@
       }
     }
   },
-  "Type: Web Mobile": {},
+  "type: webMobile": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "prism",
-      "Type: Globals",
-      "Type: Web Desktop",
-      "Type: Web Mobile"
+      "type: global",
+      "type: webDesktop",
+      "type: webMobile"
     ]
   }
 }
