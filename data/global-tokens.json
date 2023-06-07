@@ -2808,6 +2808,59 @@
           "type": "typography",
           "description": "webDesktop.caption.boldItalic"
         }
+      },
+      "button": {
+        "large": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand.primary}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSize.s}",
+              "letterSpacing": "{letterSpacing.normal}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textDecoration": "{textDecoration.none}",
+              "textCase": "{textCase.none}",
+              "paragraphIndent": "0"
+            },
+            "type": "typography",
+            "description": "webDesktop.button.large.bold"
+          }
+        },
+        "medium": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand.primary}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.16:16}",
+              "fontSize": "{fontSize.xs}",
+              "letterSpacing": "{letterSpacing.normal}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textDecoration": "{textDecoration.none}",
+              "textCase": "{textCase.none}",
+              "paragraphIndent": "0"
+            },
+            "type": "typography",
+            "description": "webDesktop.button.medium.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand.primary}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.16:16}",
+              "fontSize": "{fontSize.xxs}",
+              "letterSpacing": "{letterSpacing.normal}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textDecoration": "{textDecoration.none}",
+              "textCase": "{textCase.none}",
+              "paragraphIndent": "0"
+            },
+            "type": "typography",
+            "description": "webDesktop.button.small.bold"
+          }
+        }
       }
     }
   },
