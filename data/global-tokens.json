@@ -2368,8 +2368,8 @@
   "type: webDesktop": {
     "webDesktop": {
       "mega": {
-        "inline": {
-          "x2": {
+        "extraLarge": {
+          "inlineX2": {
             "value": {
               "fontFamily": "{fontFamilies.brand.secondary}",
               "fontWeight": "{fontWeights.inlineX2}",
@@ -2382,9 +2382,9 @@
               "textCase": "{textCase.none}"
             },
             "type": "typography",
-            "description": "webDesktop.mega.inline.x2"
+            "description": "webDesktop.mega.extraLarge.inlineX2"
           },
-          "x1": {
+          "inlineX1": {
             "value": {
               "fontFamily": "{fontFamilies.brand.secondary}",
               "fontWeight": "{fontWeights.inlineX1}",
@@ -2397,10 +2397,8 @@
               "textCase": "{textCase.none}"
             },
             "type": "typography",
-            "description": "webDesktop.mega.inline.x1"
-          }
-        },
-        "extraLarge": {
+            "description": "webDesktop.mega.extraLarge.inlineX1"
+          },
           "black": {
             "value": {
               "fontFamily": "{fontFamilies.brand.primary}",
